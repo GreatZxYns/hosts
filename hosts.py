@@ -144,7 +144,7 @@ def keep_alive():
 # ================================
 # 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍
 # ================================
-TOKEN = os.getenv("BOT_TOKEN", "8419138760:AAGf75gSci9buzt5FNOI6z_chXLHv8YbIAQ").strip()
+TOKEN = os.getenv("BOT_TOKEN", "8419138760:AAF7DlRX5zE2DaV2pP5hPBAUsQd5ESnybaU").strip()
 if not TOKEN:
     raise RuntimeError("BOT_TOKEN environment variable is required.")
 OWNER_ID = 8848159805
