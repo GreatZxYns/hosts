@@ -144,12 +144,12 @@ def keep_alive():
 # ================================
 # 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍
 # ================================
-TOKEN = os.getenv("BOT_TOKEN", "8419138760:AAF7DlRX5zE2DaV2pP5hPBAUsQd5ESnybaU").strip()
+TOKEN = os.getenv("BOT_TOKEN", "8419138760:AAEtqpL6E25asOBpxVLGlgp7C07S_eLoBMo").strip()
 if not TOKEN:
     raise RuntimeError("BOT_TOKEN environment variable is required.")
 OWNER_ID = 8848159805
 ADMIN_ID = 8231927184
-YOUR_USERNAME = os.getenv('BOT_USERNAME', '@wannabimine')
+YOUR_USERNAME = os.getenv('BOT_USERNAME', '@gothate')
 UPDATE_CHANNEL = os.getenv('UPDATE_CHANNEL', '@codezxyns')
 UPDATE_GROUP = os.getenv('UPDATE_GROUP', '@codezxyns')
 BRAND_NAME = '𝐆ᴏᴅ 𝐙xʏɴ'
